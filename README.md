@@ -1,6 +1,6 @@
 # myapp
 
-A new Flutter project.
+Programa desenvolvido com base na aula 3 do modulo 2 da disciplina 11 do curso talento tech
 
 ## Getting Started
 
